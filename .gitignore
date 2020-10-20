@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #Ignorar ciertos puntos
 #Imagenes como .jpg, .png, .svg, etc
+=======
+*.png
+*.jpg
+>>>>>>> cb89a88c15113d9e5bc35162ad194bc94fbdfd59
