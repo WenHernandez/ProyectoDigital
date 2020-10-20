@@ -1,2 +1,2 @@
-*.png
-*.jpg
+#Ignorar ciertos puntos
+#Imagenes como .jpg, .png, .svg, etc
